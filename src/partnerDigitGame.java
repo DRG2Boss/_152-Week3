@@ -1,3 +1,5 @@
+// Hastily put together during class.
+
 import javax.swing.*;
 
 public class partnerDigitGame {
